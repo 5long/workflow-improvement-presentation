@@ -1,0 +1,10 @@
+{ "name": "Workflow improvement"
+, "sections": [
+    {"section": "intro"}
+  , {"section": "what-the-f"}
+  , {"section": "general-rules"}
+  , {"section": "howto"}
+  , {"section": "problems"}
+  , {"section": "end"}
+  ]
+}
